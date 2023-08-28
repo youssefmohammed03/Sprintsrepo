@@ -1,0 +1,17 @@
+{
+  "name": "working-with-express",
+  "version": "1.0.0",
+  "description": "this is the first project",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
